@@ -1,4 +1,4 @@
-# 🚀 Nexus — Full Stack Web Application
+#  Nexus — Full Stack Web Application
 
 A full-stack web application built with a modern frontend and backend integration, featuring dynamic data management, API connections, and a clean user interface.
 
