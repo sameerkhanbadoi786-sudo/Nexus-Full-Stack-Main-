@@ -4,14 +4,14 @@ A full-stack web application built with a modern frontend and backend integratio
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌐 Full-stack architecture (Frontend + Backend)
-- 🔄 Dynamic data rendering via API integration
-- 🗄️ Backend with routing and data management
-- 📱 Responsive UI across all devices
-- 🔐 Structured and modular codebase
-- ⚡ Fast and efficient performance
+-  Full-stack architecture (Frontend + Backend)
+-  Dynamic data rendering via API integration
+-  Backend with routing and data management
+-  Responsive UI across all devices
+-  Structured and modular codebase
+-  Fast and efficient performance
 
 ---
 
